@@ -1,0 +1,18 @@
+.white-link {
+  color: $white;
+  transition: all ease-in-out .15s;
+
+  &:hover {
+    opacity: .8;
+    transition: all ease-in-out .3s;
+  }
+}
+.red-btn {
+  background-color: $red;
+  transition: all ease-in-out .15s;
+
+  &:hover {
+    opacity: .8;
+    transition: all ease-in-out .3s;
+  }
+}
