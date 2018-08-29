@@ -1,9 +1,10 @@
 .section-card {
   background-color: $white;
   padding: 20px;
-  width: 47%;
+  width: 49%;
   border-radius: 5px;
   margin-top: 20px;
+  box-sizing: border-box;
 
   &:hover {
     cursor: pointer;

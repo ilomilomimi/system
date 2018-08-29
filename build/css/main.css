@@ -520,9 +520,10 @@ input {
 .section-card {
   background-color: #ffffff;
   padding: 20px;
-  width: 47%;
+  width: 49%;
   border-radius: 5px;
-  margin-top: 20px; }
+  margin-top: 20px;
+  box-sizing: border-box; }
   .section-card:hover {
     cursor: pointer; }
   .section-card:nth-child(1) {
